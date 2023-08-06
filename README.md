@@ -2,9 +2,9 @@
 It's a Real Estate Website Using HTML CSS & JavaScript
 
 #Table Of Contents 📑
--[Technologies used](#Technologies-Used)
--[ Features](#Features)
--[ Checkout](#Checkout)
+- [Technologies used](#Technologies-Used)
+- [ Features](#Features)
+- [ Checkout](#Checkout)
 - [Contributing](#contributing)
  
 
