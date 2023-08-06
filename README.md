@@ -10,9 +10,9 @@ It's a Real Estate Website Using HTML CSS & JavaScript
 
 
 # Technologies-Used  🌟
--HTML5
--CSS
--Javascript
+- HTML5
+- CSS
+- Javascript
 
 # Features  🚀
 - fully Responsive 
